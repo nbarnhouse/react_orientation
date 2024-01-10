@@ -1,8 +1,8 @@
 function Footer() {
     return (
-        <p className="read-the-docs">
+    <p className="read-the-docs">
         Nicole's text APP
-      </p>
+    </p>
     );
 }
 
